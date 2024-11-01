@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'História',
+    'Qual o nome do tratado que pôs fim na Primeira Guerra Mundial?',
+    'O Tratado de Versalhes.'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual é o maior país do mundo, em território?',
+    'Em território, a Rússia.'
 )
 
 criaCartao(
@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'O que significa "Nice to meet you" em Inglês?',
+    'Significa "Prazer em conhecer"'
 )
